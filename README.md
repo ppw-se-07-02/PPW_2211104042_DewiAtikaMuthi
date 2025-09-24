@@ -5,7 +5,7 @@ Struktur Folder:
 📂 PertemuanX
 │── 📄 ModulX_NIM_Nama_Kelas.pdf
 │
-├── 📂 CodePraktikum
+├── 📂 Praktikum
 │   └── main.php   (atau main.py / main.dart, sesuai bahasa)
 │
 └── 📂 Latihan
